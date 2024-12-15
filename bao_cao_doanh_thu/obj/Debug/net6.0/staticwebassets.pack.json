@@ -1,0 +1,1117 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\bao_cao_doanh_thu.bundle.scp.css",
+      "PackagePath": "staticwebassets\\bao_cao_doanh_thu.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\002255b6-3c97-4928-8ecf-f1b5a4775070_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\002255b6-3c97-4928-8ecf-f1b5a4775070_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\02d871b7-ffd3-4b3b-8a23-788d128f4589_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\02d871b7-ffd3-4b3b-8a23-788d128f4589_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\03b152cb-7727-45b6-81b1-bee86df346ea_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\03b152cb-7727-45b6-81b1-bee86df346ea_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\043cc516-02cc-49b5-84cb-c4fbec3825e6_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\043cc516-02cc-49b5-84cb-c4fbec3825e6_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\081f2686-7dc5-4a0a-9174-21d321fd5a2a_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\081f2686-7dc5-4a0a-9174-21d321fd5a2a_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\08208b08-1a35-404e-bccd-aa18c84b9670_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\08208b08-1a35-404e-bccd-aa18c84b9670_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\08df77f5-1f27-4f86-9f56-07d439d0ad4c_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\08df77f5-1f27-4f86-9f56-07d439d0ad4c_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\09e32d5e-4a0e-43a5-8a93-b40481909ab3_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\09e32d5e-4a0e-43a5-8a93-b40481909ab3_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\0ab92d12-7d7c-46a8-bf6f-a4c940212a2e_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\0ab92d12-7d7c-46a8-bf6f-a4c940212a2e_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\10185a86-638c-4fb6-b1b9-df2d7a253f2d_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\10185a86-638c-4fb6-b1b9-df2d7a253f2d_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\1213f8db-7105-4d62-bde8-1c3f7e32e03f_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1213f8db-7105-4d62-bde8-1c3f7e32e03f_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\14f8d1b6-0903-42a1-835a-a0199f1769c1_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\14f8d1b6-0903-42a1-835a-a0199f1769c1_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\1518675f-99b8-42a7-8522-b7ffd3ba72fb_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1518675f-99b8-42a7-8522-b7ffd3ba72fb_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\15a4859a-d3ab-43cc-8f08-e16c84ba55b0_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\15a4859a-d3ab-43cc-8f08-e16c84ba55b0_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\18b3387e-6df1-4101-939d-71cdfe11b61a_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18b3387e-6df1-4101-939d-71cdfe11b61a_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\18ebe3d5-fb7c-4cf1-ad42-c2562c9fbdbf_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\18ebe3d5-fb7c-4cf1-ad42-c2562c9fbdbf_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\1bb961bc-b72d-4a32-9763-07a443c0d89c_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1bb961bc-b72d-4a32-9763-07a443c0d89c_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\1cbf046c-87fc-47f1-a857-096f373933cb_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1cbf046c-87fc-47f1-a857-096f373933cb_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\1f69025b-67b0-4a02-8541-c746662ff9c4_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1f69025b-67b0-4a02-8541-c746662ff9c4_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\1fbc24b9-a0ef-48c0-a413-8bd1b1de33a5_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\1fbc24b9-a0ef-48c0-a413-8bd1b1de33a5_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\21b7cb19-d435-4333-8773-dc36445eeaea_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\21b7cb19-d435-4333-8773-dc36445eeaea_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\23f19c9b-f3fd-4bd4-b608-ce5bd58cff73_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\23f19c9b-f3fd-4bd4-b608-ce5bd58cff73_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\250ef304-efc8-4558-9ec6-18bf28d5edca_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\250ef304-efc8-4558-9ec6-18bf28d5edca_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\2595942a-84e1-4640-8255-f18bdc9a8963_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2595942a-84e1-4640-8255-f18bdc9a8963_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\2709329e-ab4a-4d6f-8fb2-83261aae388f_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2709329e-ab4a-4d6f-8fb2-83261aae388f_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\2a1ca7ef-5fed-4041-9fed-9724d7e2656b_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2a1ca7ef-5fed-4041-9fed-9724d7e2656b_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\2d57ba04-f272-4117-80ff-cfe78b38364d_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2d57ba04-f272-4117-80ff-cfe78b38364d_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\2e596202-3ffe-4c71-bf0b-1d40ceb601bd_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2e596202-3ffe-4c71-bf0b-1d40ceb601bd_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\2fe63d40-b135-4b68-b698-28eedcfdbe6c_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\2fe63d40-b135-4b68-b698-28eedcfdbe6c_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\30139b5a-d43e-4413-8e96-95defb34a348_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\30139b5a-d43e-4413-8e96-95defb34a348_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3087a4e5-22b0-4caf-b53c-5d40026d36a1_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3087a4e5-22b0-4caf-b53c-5d40026d36a1_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\31face3a-439d-45e8-b052-441a251feb55_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\31face3a-439d-45e8-b052-441a251feb55_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\320e2be0-12bc-4a29-8e03-687005e458b2_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\320e2be0-12bc-4a29-8e03-687005e458b2_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\32453fab-e5af-4987-8502-5e3ab0ae3d68_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\32453fab-e5af-4987-8502-5e3ab0ae3d68_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\33c282de-f3e3-4477-bee5-7e3b5bc85c44_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\33c282de-f3e3-4477-bee5-7e3b5bc85c44_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\34219224-95b7-4401-bc3e-11ef55f708d6_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\34219224-95b7-4401-bc3e-11ef55f708d6_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\358998dd-187c-40ef-98fa-40697a848461_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\358998dd-187c-40ef-98fa-40697a848461_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3775b9bb-47bc-496e-a8eb-cb139d51b40f_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3775b9bb-47bc-496e-a8eb-cb139d51b40f_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3b176539-cb20-4e50-9cc1-36390abb4ee6_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3b176539-cb20-4e50-9cc1-36390abb4ee6_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3c5ff878-7cea-4f01-8088-f6fdc0b9ab7f_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3c5ff878-7cea-4f01-8088-f6fdc0b9ab7f_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3cad01e0-3fa2-4c48-8894-42edc8771612_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3cad01e0-3fa2-4c48-8894-42edc8771612_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3e96d906-22a7-475d-9c2f-c4a6f605b769_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3e96d906-22a7-475d-9c2f-c4a6f605b769_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3ebe52a0-67e3-4874-92b9-cad59126ddb4_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3ebe52a0-67e3-4874-92b9-cad59126ddb4_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3f0d91fa-b133-4912-a5ae-667b9ebe3083_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3f0d91fa-b133-4912-a5ae-667b9ebe3083_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3fbf0a1b-3276-402e-b1e7-692be80847c6_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3fbf0a1b-3276-402e-b1e7-692be80847c6_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\3fd2f215-7702-4851-97ae-a137df55eb4a_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\3fd2f215-7702-4851-97ae-a137df55eb4a_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\405fe47e-9268-4c09-a7f2-7326f97c384c_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\405fe47e-9268-4c09-a7f2-7326f97c384c_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\40e3e403-cd5f-4ca1-b15b-b6f25c60c761_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\40e3e403-cd5f-4ca1-b15b-b6f25c60c761_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\4217e0ff-7dd7-44d1-8534-6c7d60d2a675_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4217e0ff-7dd7-44d1-8534-6c7d60d2a675_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\42f37cdb-1768-4274-a796-55c8ae177fcc_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\42f37cdb-1768-4274-a796-55c8ae177fcc_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\4333f544-f2c6-4ff3-9aad-697805063582_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4333f544-f2c6-4ff3-9aad-697805063582_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\43bc8a50-4d5f-4aa7-b4fd-f5b569d51e2e_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\43bc8a50-4d5f-4aa7-b4fd-f5b569d51e2e_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\43f11868-4506-467d-99a9-306f2bdf1ec1_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\43f11868-4506-467d-99a9-306f2bdf1ec1_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\44ed2e18-c363-4097-9683-19ec67f6a126_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\44ed2e18-c363-4097-9683-19ec67f6a126_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\457b94da-7995-45b9-b792-71412c2d4d4b_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\457b94da-7995-45b9-b792-71412c2d4d4b_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\464ea4a8-04f7-4fa7-9874-eaffc3a9b84b_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\464ea4a8-04f7-4fa7-9874-eaffc3a9b84b_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\47909586-2b97-4966-85cc-a0387efa0035_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\47909586-2b97-4966-85cc-a0387efa0035_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\493b806c-b2cd-48cf-98fc-537037b5ad6a_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\493b806c-b2cd-48cf-98fc-537037b5ad6a_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\493fbb93-15d3-4fd8-983b-c8a6f825f78e_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\493fbb93-15d3-4fd8-983b-c8a6f825f78e_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\4942ec75-c215-4d91-b30d-900d4415337f_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4942ec75-c215-4d91-b30d-900d4415337f_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\4aad586a-9932-4285-a46a-35bdf46ac552_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4aad586a-9932-4285-a46a-35bdf46ac552_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\4d11381c-fcec-4f4a-bcde-8d2f1d2e3ac2_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4d11381c-fcec-4f4a-bcde-8d2f1d2e3ac2_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\4fd04234-83c2-4f4e-8975-87ae745d300e_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\4fd04234-83c2-4f4e-8975-87ae745d300e_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\52c9a894-fad6-4e3d-806a-b063481ce281_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\52c9a894-fad6-4e3d-806a-b063481ce281_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\547239d2-ca0a-4272-b8f5-b373d1695863_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\547239d2-ca0a-4272-b8f5-b373d1695863_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\581569c1-11d4-447e-b08e-b7c43492583d_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\581569c1-11d4-447e-b08e-b7c43492583d_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\587b483d-a625-4f41-8bcd-a91b86de07a9_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\587b483d-a625-4f41-8bcd-a91b86de07a9_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\59596d02-4704-47ca-aed5-2f650ea5134e_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\59596d02-4704-47ca-aed5-2f650ea5134e_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\5a519d3d-f41f-4416-b9bd-ebd32be3c31a_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5a519d3d-f41f-4416-b9bd-ebd32be3c31a_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\5d6447cd-bc41-4e77-9e9b-4fbb74aaa0e5_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5d6447cd-bc41-4e77-9e9b-4fbb74aaa0e5_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\5e939eb6-6bcb-4a74-b9a4-7ff34c68b209_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5e939eb6-6bcb-4a74-b9a4-7ff34c68b209_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\5eb4f60c-21df-4e18-96a6-1ede48c219de_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5eb4f60c-21df-4e18-96a6-1ede48c219de_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\5f23bb59-41a7-4309-8d6e-ee8210c62b05_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\5f23bb59-41a7-4309-8d6e-ee8210c62b05_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\61b692bb-909f-45d7-a9b0-244d86440ac8_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\61b692bb-909f-45d7-a9b0-244d86440ac8_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\61f90089-8948-40a6-993f-bcb81b591d58_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\61f90089-8948-40a6-993f-bcb81b591d58_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\634a05a8-6144-4283-b535-9f1924a9282b_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg",
+      "PackagePath": "staticwebassets\\uploads\\634a05a8-6144-4283-b535-9f1924a9282b_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\643ab625-a262-4894-976f-fb3df80db175_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\643ab625-a262-4894-976f-fb3df80db175_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\6472f402-74d9-4006-bd50-05328daa84b8_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6472f402-74d9-4006-bd50-05328daa84b8_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\65ff2bd7-0a13-4f47-b3b5-9529c7a8990e_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\65ff2bd7-0a13-4f47-b3b5-9529c7a8990e_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\6657e8f1-3fe1-4649-b16b-a554b5895da4_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6657e8f1-3fe1-4649-b16b-a554b5895da4_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\69396391-aa07-437e-93c4-48e90186d757_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\69396391-aa07-437e-93c4-48e90186d757_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\6a8074d5-3c1a-4bf1-a21d-268be427be14_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6a8074d5-3c1a-4bf1-a21d-268be427be14_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\6c24b8db-9c2b-418d-9fa9-1e8e17d1bdcb_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6c24b8db-9c2b-418d-9fa9-1e8e17d1bdcb_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\6d7b88df-c403-4e42-8f24-07e24fe24223_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\6d7b88df-c403-4e42-8f24-07e24fe24223_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\71d2cb9e-7253-4501-955a-2728e132f969_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\71d2cb9e-7253-4501-955a-2728e132f969_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\71e574ef-df6a-4395-b92c-efe9b8f12e46_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\71e574ef-df6a-4395-b92c-efe9b8f12e46_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\743a1c40-3f12-4c48-9e1a-bf23ec2ecbb2_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\743a1c40-3f12-4c48-9e1a-bf23ec2ecbb2_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\74b1dc77-89fe-4349-ba49-73d1c620f2eb_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\74b1dc77-89fe-4349-ba49-73d1c620f2eb_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\75cbe311-b4fa-4aa6-b000-f3076aca3dc3_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\75cbe311-b4fa-4aa6-b000-f3076aca3dc3_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\761ffcc0-f043-4d4f-877e-a9e1c3f2b441_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\761ffcc0-f043-4d4f-877e-a9e1c3f2b441_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\76255e4f-6bff-42a9-8bd2-9bb3a272df79_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\76255e4f-6bff-42a9-8bd2-9bb3a272df79_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\7735d89c-6547-43e9-a1e2-e77375a17a06_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7735d89c-6547-43e9-a1e2-e77375a17a06_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\78eec4b4-4db9-4d5a-a987-ec2a6473c537_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\78eec4b4-4db9-4d5a-a987-ec2a6473c537_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\795d32f5-7b71-4042-a9cf-59921f7c9d57_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg",
+      "PackagePath": "staticwebassets\\uploads\\795d32f5-7b71-4042-a9cf-59921f7c9d57_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\7b0a1d63-b4ae-41db-ba74-f7187bc16cc6_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7b0a1d63-b4ae-41db-ba74-f7187bc16cc6_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\7b4cc005-60bb-48e9-ac3b-22f4e3b7e8b9_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7b4cc005-60bb-48e9-ac3b-22f4e3b7e8b9_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\7d14afbc-1f54-45d7-9571-53638fa3a0bb_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7d14afbc-1f54-45d7-9571-53638fa3a0bb_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\7e55d2a6-cb0b-49aa-9236-950d213ca1dd_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7e55d2a6-cb0b-49aa-9236-950d213ca1dd_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\7fd150a0-245e-476c-94a6-064ecdba949f_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\7fd150a0-245e-476c-94a6-064ecdba949f_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\80d7cb1f-46a6-4f16-8db9-84edb531559d_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\80d7cb1f-46a6-4f16-8db9-84edb531559d_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\81074e8a-9350-4fa5-8739-71748ad0ad86_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\81074e8a-9350-4fa5-8739-71748ad0ad86_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\83253a05-d314-4b71-93a2-05df01f6c6b3_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg",
+      "PackagePath": "staticwebassets\\uploads\\83253a05-d314-4b71-93a2-05df01f6c6b3_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8362a05c-99ce-4855-8fc2-c39448a3c324_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8362a05c-99ce-4855-8fc2-c39448a3c324_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\853387cc-2cdc-4434-a569-4665055ed38e_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\853387cc-2cdc-4434-a569-4665055ed38e_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8803b1ee-3d54-4d21-a90c-ad9edd413519_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8803b1ee-3d54-4d21-a90c-ad9edd413519_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\88502fd2-6fc5-40d9-b8d5-873459c79b5c_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\88502fd2-6fc5-40d9-b8d5-873459c79b5c_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8870bf2d-8149-4442-ae0a-fdae712bebee_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8870bf2d-8149-4442-ae0a-fdae712bebee_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\88b0ab78-cf2f-44ac-a254-bc9f717168d1_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\88b0ab78-cf2f-44ac-a254-bc9f717168d1_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8a594313-c0f9-40ee-9aca-bc446004bdfd_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8a594313-c0f9-40ee-9aca-bc446004bdfd_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8a73d9c2-9add-4a98-b6c7-138a779d9b72_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8a73d9c2-9add-4a98-b6c7-138a779d9b72_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8b43a884-fdf7-457d-95dd-318d335e26b7_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8b43a884-fdf7-457d-95dd-318d335e26b7_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8b807d14-9654-495d-ac13-68aad4dd59ec_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8b807d14-9654-495d-ac13-68aad4dd59ec_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8cc19586-5c60-4b86-a682-0eec339ede5e_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8cc19586-5c60-4b86-a682-0eec339ede5e_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8cdba57f-d372-4bac-aeb5-8f6c91a39191_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8cdba57f-d372-4bac-aeb5-8f6c91a39191_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8d7de221-ddc6-4598-b650-699189363558_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8d7de221-ddc6-4598-b650-699189363558_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8edfe7e7-baa3-4d5b-804b-de24844e53d6_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8edfe7e7-baa3-4d5b-804b-de24844e53d6_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8ee52807-e9c7-4822-81a6-9b4dde4d8506_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8ee52807-e9c7-4822-81a6-9b4dde4d8506_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\8f69edbd-1077-431c-a949-d11d1725b4cd_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\8f69edbd-1077-431c-a949-d11d1725b4cd_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\92fe4489-a70a-4792-868b-42c4c7bc3e8d_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\92fe4489-a70a-4792-868b-42c4c7bc3e8d_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\94714d15-faa8-4077-9e24-36c30d400839_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\94714d15-faa8-4077-9e24-36c30d400839_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9485b653-ec0c-466d-979a-d346e74fc5fa_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9485b653-ec0c-466d-979a-d346e74fc5fa_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\94a7e15a-2fd6-498f-bd42-f165beb768a9_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\94a7e15a-2fd6-498f-bd42-f165beb768a9_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\95859df1-084e-4d8a-9bd4-b4261f7fed0d_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\95859df1-084e-4d8a-9bd4-b4261f7fed0d_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\95e174dd-9c63-4131-9bcc-8e58185b13db_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\95e174dd-9c63-4131-9bcc-8e58185b13db_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\95e9efeb-d71f-47de-8777-c5a0b1fd7cbf_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\95e9efeb-d71f-47de-8777-c5a0b1fd7cbf_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\97f64211-cfad-4d4c-81bd-7c4ad2e32242_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg",
+      "PackagePath": "staticwebassets\\uploads\\97f64211-cfad-4d4c-81bd-7c4ad2e32242_z6114568583433_00801795fc404ef77beda8e500b49e38.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\993f5329-cea8-4916-a6aa-38284042c6a0_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\993f5329-cea8-4916-a6aa-38284042c6a0_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9b562f2a-47f6-4d48-88b3-f5fce39debea_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9b562f2a-47f6-4d48-88b3-f5fce39debea_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9bd3e700-9224-4f63-b781-50b863845e39_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9bd3e700-9224-4f63-b781-50b863845e39_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9d7d3558-8f01-4249-bd5a-e27fa9e780c0_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9d7d3558-8f01-4249-bd5a-e27fa9e780c0_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9db07c31-a90a-4333-82a2-07715003a202_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9db07c31-a90a-4333-82a2-07715003a202_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9ee99503-7f9e-46fa-b44f-1eb33efd8cca_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9ee99503-7f9e-46fa-b44f-1eb33efd8cca_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\9f34e1e6-2515-4d67-b537-d2fa8d4f49b6_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\9f34e1e6-2515-4d67-b537-d2fa8d4f49b6_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a2bb1c85-90f6-40cc-aad1-2dbc430f0426_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a2bb1c85-90f6-40cc-aad1-2dbc430f0426_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a3c54df3-2680-44ab-8be4-f025102dbf54_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a3c54df3-2680-44ab-8be4-f025102dbf54_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a509985a-5c9b-4a40-837a-e4ead9bacf21_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a509985a-5c9b-4a40-837a-e4ead9bacf21_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a54d0344-a32b-40ad-86d3-a637642be3c1_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a54d0344-a32b-40ad-86d3-a637642be3c1_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a554d567-2947-46a9-83f7-6ff449dc2779_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a554d567-2947-46a9-83f7-6ff449dc2779_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a5b05ebc-56ca-4acf-b2c9-0009f85723fd_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a5b05ebc-56ca-4acf-b2c9-0009f85723fd_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a65ed463-b193-457a-a68d-436bfba4225b_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a65ed463-b193-457a-a68d-436bfba4225b_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a901e753-113c-4b9c-9264-9a23bcd0d23e_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a901e753-113c-4b9c-9264-9a23bcd0d23e_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\a98494f7-7168-4025-94a1-6367fde195e2_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\a98494f7-7168-4025-94a1-6367fde195e2_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\abbcc636-7e2c-477b-9746-2626e17cd747_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\abbcc636-7e2c-477b-9746-2626e17cd747_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\acbeadf1-61ab-40f7-85d8-60db80e7e315_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\acbeadf1-61ab-40f7-85d8-60db80e7e315_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ae6b3ee3-7edd-4821-ac86-ce8e0cc47118_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ae6b3ee3-7edd-4821-ac86-ce8e0cc47118_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\b06c97c6-91d8-46d2-9aee-1ab9f6c1b342_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b06c97c6-91d8-46d2-9aee-1ab9f6c1b342_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\b310b395-fb78-4c45-b898-e255ca86fcf8_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b310b395-fb78-4c45-b898-e255ca86fcf8_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\b453f936-ee6c-4b60-a5d7-fe28803a9154_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b453f936-ee6c-4b60-a5d7-fe28803a9154_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\b4e82401-3794-44e3-9294-d3dcc8a58367_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\b4e82401-3794-44e3-9294-d3dcc8a58367_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ba5b8127-c17d-42ec-a3fc-cd449401bf76_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ba5b8127-c17d-42ec-a3fc-cd449401bf76_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ba751281-95d7-423d-8840-60048bbbbb37_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ba751281-95d7-423d-8840-60048bbbbb37_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\bc1acdd9-ae21-47ee-85d3-5746b80f2c69_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bc1acdd9-ae21-47ee-85d3-5746b80f2c69_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\bed1b862-5010-4661-afe4-75e6dbff3313_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bed1b862-5010-4661-afe4-75e6dbff3313_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\bff6aea5-6d4a-44cc-82a8-4d1ba9a5f447_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\bff6aea5-6d4a-44cc-82a8-4d1ba9a5f447_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\c16f80b7-31a5-45e9-823f-7a7cbebfc75f_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c16f80b7-31a5-45e9-823f-7a7cbebfc75f_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\c3b0de41-5d92-4ec9-9d1b-506629e3dfda_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c3b0de41-5d92-4ec9-9d1b-506629e3dfda_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\c53d1aa4-9dfd-4fd9-b6e0-ef5f11bf5af9_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c53d1aa4-9dfd-4fd9-b6e0-ef5f11bf5af9_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\c6fb99a4-49c4-4300-9fff-b6eb45a9d440_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c6fb99a4-49c4-4300-9fff-b6eb45a9d440_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\c793af77-a5b4-4800-8697-db0577cc3369_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\c793af77-a5b4-4800-8697-db0577cc3369_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\cad904c4-c65d-41d0-b359-d1557efcd9f5_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cad904c4-c65d-41d0-b359-d1557efcd9f5_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\cae548c5-f22a-43e5-bc34-62040ea4fb91_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cae548c5-f22a-43e5-bc34-62040ea4fb91_z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\cb636a49-20b1-4bd3-b327-c6711f62edb9_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cb636a49-20b1-4bd3-b327-c6711f62edb9_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\cbc4233c-9fb9-4cf0-ba54-5facbbb1745d_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cbc4233c-9fb9-4cf0-ba54-5facbbb1745d_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ccc35e99-3288-4dbc-928c-dc34f734650b_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ccc35e99-3288-4dbc-928c-dc34f734650b_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ceb94c2e-59ce-431f-b97b-d5dd2775e9b8_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ceb94c2e-59ce-431f-b97b-d5dd2775e9b8_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\cf2d750b-168b-4bd6-8e32-41b01a70b089_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\cf2d750b-168b-4bd6-8e32-41b01a70b089_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d078339b-47e4-4530-a3a6-387d8e85c82a_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d078339b-47e4-4530-a3a6-387d8e85c82a_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d285605d-3d35-4902-9a2d-6e0c1ed2589a_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d285605d-3d35-4902-9a2d-6e0c1ed2589a_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d2ab41ad-0390-43af-b8ce-d97f2c2259e0_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d2ab41ad-0390-43af-b8ce-d97f2c2259e0_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d3691d95-7b6f-400e-b0da-d6a829b34cef_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d3691d95-7b6f-400e-b0da-d6a829b34cef_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d51b9080-31cd-4688-a19d-20860681f1c0_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d51b9080-31cd-4688-a19d-20860681f1c0_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d7c6fc5b-c862-4251-a42e-407b04c42e88_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d7c6fc5b-c862-4251-a42e-407b04c42e88_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d8acb51c-4fad-4ced-b7ce-cb30368728e8_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d8acb51c-4fad-4ced-b7ce-cb30368728e8_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d9b75f30-6f2b-4619-a9d7-eb7d9edc2adc_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d9b75f30-6f2b-4619-a9d7-eb7d9edc2adc_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\d9ef3043-ed96-42a8-96be-99323675af63_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\d9ef3043-ed96-42a8-96be-99323675af63_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\da919834-49e8-4c3b-a46f-6d2d8655616d_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\da919834-49e8-4c3b-a46f-6d2d8655616d_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\dbc5acf0-66b9-47c2-919d-f498e8030e12_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dbc5acf0-66b9-47c2-919d-f498e8030e12_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\dc83158f-ced4-4508-a879-35c2634de02b_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc83158f-ced4-4508-a879-35c2634de02b_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\dc9941a3-a97e-4219-b114-853f28fc3f60_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dc9941a3-a97e-4219-b114-853f28fc3f60_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\dcddfee1-def4-4d75-96d2-29acc156861d_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dcddfee1-def4-4d75-96d2-29acc156861d_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\dd911a9a-10ba-47b7-acd7-cf552b2d37bd_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\dd911a9a-10ba-47b7-acd7-cf552b2d37bd_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\de250a74-7f4c-48dd-acef-9913f85555e6_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\de250a74-7f4c-48dd-acef-9913f85555e6_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\e1c27592-db37-49ea-abdb-6e31c8944640_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e1c27592-db37-49ea-abdb-6e31c8944640_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\e5efa778-428d-42e1-9a04-3b96489a6d3f_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e5efa778-428d-42e1-9a04-3b96489a6d3f_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\e65416c9-115b-41f7-ac8e-528fe9c5905d_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e65416c9-115b-41f7-ac8e-528fe9c5905d_z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\e7741ad7-458d-4904-9f4d-77bf43c903ab_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e7741ad7-458d-4904-9f4d-77bf43c903ab_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\e8a3b262-dd3c-470d-9a5b-76f1a72757d5_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e8a3b262-dd3c-470d-9a5b-76f1a72757d5_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\e8b512ea-71c8-4cfb-959f-fdcf69bf0303_8.jpg",
+      "PackagePath": "staticwebassets\\uploads\\e8b512ea-71c8-4cfb-959f-fdcf69bf0303_8.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\eace240d-cd9b-4842-a0b7-9d690f633d4a_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\eace240d-cd9b-4842-a0b7-9d690f633d4a_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ed458b4f-2efb-4a26-ad22-4afb3ad0c071_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ed458b4f-2efb-4a26-ad22-4afb3ad0c071_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\edec8fb1-d137-4a64-b766-3d57b4a67f1a_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\edec8fb1-d137-4a64-b766-3d57b4a67f1a_z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\ee196fc2-b992-4145-bde6-4c3587c1fad6_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\ee196fc2-b992-4145-bde6-4c3587c1fad6_z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\eeb58a94-7441-4485-9c5c-f33b5a591410_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\eeb58a94-7441-4485-9c5c-f33b5a591410_z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f1133445-5dda-451e-a682-e958c6d67747_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f1133445-5dda-451e-a682-e958c6d67747_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f1785036-6451-4c44-9149-db81dd1e7bf0_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f1785036-6451-4c44-9149-db81dd1e7bf0_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f188b873-194a-4d7a-9ef8-9e60ed1207c3_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f188b873-194a-4d7a-9ef8-9e60ed1207c3_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f27b469a-a72e-49fe-b248-d582d02c9d4b_5.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f27b469a-a72e-49fe-b248-d582d02c9d4b_5.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f369d2ab-78f0-45c5-bf20-60b7e55bd618_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f369d2ab-78f0-45c5-bf20-60b7e55bd618_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f381c696-73ed-41fe-9738-a093d27787ac_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f381c696-73ed-41fe-9738-a093d27787ac_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f3d5f955-d6a3-4468-af05-3c201aa7f1f2_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f3d5f955-d6a3-4468-af05-3c201aa7f1f2_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f742cd58-c902-488a-895f-38727bdf6a8c_3.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f742cd58-c902-488a-895f-38727bdf6a8c_3.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f7fd672c-1100-4642-bdbc-3ac56b05e362_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f7fd672c-1100-4642-bdbc-3ac56b05e362_z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f97cc1c2-c034-4289-9e56-a25d69cdb57f_7.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f97cc1c2-c034-4289-9e56-a25d69cdb57f_7.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\f9be9c41-be0b-46a9-8dd2-102145c68d2b_2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\f9be9c41-be0b-46a9-8dd2-102145c68d2b_2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\fcb7fc87-5124-4a16-802e-39c256f4a9f8_6.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fcb7fc87-5124-4a16-802e-39c256f4a9f8_6.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\fe139371-b92f-4700-b330-20afcbfc5b0c_4.jpg",
+      "PackagePath": "staticwebassets\\uploads\\fe139371-b92f-4700-b330-20afcbfc5b0c_4.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568172093_98a1a3194d403ad5263dfef5aba4eb7e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568172362_eb819811e378fff7fd41a392fda844b0.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568172647_3f8263f21f9c5bc82825d38d5b0770d2.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568172912_341882e7eee543ecf935c0233369a7c9.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568173565_04faad0487717c3dacf76ebfa1272d9c.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568174178_83ac1cd13bbafa6301755f08ce74169e.jpg"
+    },
+    {
+      "Id": "D:\\Asp.net core\\bao_cao_doanh_thu\\bao_cao_doanh_thu\\wwwroot\\uploads\\z6114568583433_00801795fc404ef77beda8e500b49e38.jpg",
+      "PackagePath": "staticwebassets\\uploads\\z6114568583433_00801795fc404ef77beda8e500b49e38.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.bao_cao_doanh_thu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.bao_cao_doanh_thu.props",
+      "PackagePath": "build\\bao_cao_doanh_thu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.bao_cao_doanh_thu.props",
+      "PackagePath": "buildMultiTargeting\\bao_cao_doanh_thu.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.bao_cao_doanh_thu.props",
+      "PackagePath": "buildTransitive\\bao_cao_doanh_thu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

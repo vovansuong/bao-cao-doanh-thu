@@ -1,0 +1,57 @@
+﻿@model List<bao_cao_doanh_thu.Models.OCRModel>
+
+<h1>OCR - Kết quả trích xuất và định dạng</h1>
+
+<!-- Form tải ảnh lên -->
+<form asp-action="Index" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Chọn hình ảnh:</label>
+        <input type="file" name="images" multiple class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success">Tải lên và Xử lý</button>
+</form>
+
+<hr />
+
+<!-- Hiển thị nút xuất Excel nếu có kết quả -->
+@if (Model != null && Model.Count > 0)
+{
+    <form asp-action="Export" method="post">
+        <button type="submit" class="btn btn-primary">Tải về File Excel</button>
+    </form>
+}
+
+<!-- Hiển thị kết quả -->
+@if (Model != null && Model.Count > 0)
+{
+    <h2>Kết quả:</h2>
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Ngày</th>
+                <th>SHOPEEFOOD</th>
+                <th>Be</th>
+                <th>GRAB</th>
+                <th>MOMO</th>
+                <th>CA</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var result in Model)
+            {
+                <tr>
+                    <td>@result.Ngay</td>
+                    <td>@result.NOW</td>
+                    <td>@result.Be</td>
+                    <td>@result.GRAB</td>
+                    <td>@result.MOMO</td>
+                    <td>@result.Ca</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>Chưa có dữ liệu được xử lý.</p>
+}
